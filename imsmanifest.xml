@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5g7mPn6hUlg_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">health &amp; wellness</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="health_&amp;_wellness_ORG">
+    <organization identifier="health_&amp;_wellness_ORG">
+      <title>health &amp; wellness</title>
+      <item identifier="health_&amp;_wellness_SCO" isvisible="true" identifierref="__5g7mPn6hUlg_course_id_RES">
+        <title>health &amp; wellness</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5g7mPn6hUlg_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6YjyMukzL1u_80_DX1440_DY1440_CX1080_CY764.png" />
+      <file href="mobile/6H9mbhxQpVR_80_DX1440_DY1440_CX1079_CY763.png" />
+      <file href="mobile/5w0UKT5Rc5G_80_P_326_155_849_697_DX1126_DY1126_CX351_CY288.png" />
+      <file href="mobile/6KvAoFAJozj_80_P_149_90_1508_1188_DX672_DY672_CX396_CY312.png" />
+      <file href="story_content/5bLFMWakfg9_22050_48_0.mp3" />
+      <file href="mobile/5YuaZzlRw9R_80_DX1440_DY1440_CX1080_CY764.png" />
+      <file href="mobile/5kCWrCoPfs2_80_DX1156_DY1156_CX867_CY508.png" />
+      <file href="mobile/6G1C4uEWgjT_80_DX368_DY368_CX276_CY276.png" />
+      <file href="mobile/6pyAgnAwN8U_80_DX384_DY384_CX288_CY288.png" />
+      <file href="mobile/6rAvWm34dOZ_80_DX384_DY384_CX288_CY288.png" />
+      <file href="mobile/6rdIyHn7YrG_80_DX610_DY610_CX457_CY420.png" />
+      <file href="mobile/60YWt6LrazD_80_DX842_DY842_CX280_CY421.png" />
+      <file href="mobile/5epIVow7ljV_80_DX672_DY672_CX472_CY503.png" />
+      <file href="mobile/5uEi2J2fvN7_80_DX512_DY512_CX384_CY384.png" />
+      <file href="story_content/67AsI9ZeO3h_22050_48_0.mp3" />
+      <file href="story_content/5XUZJ8lBp6X_22050_48_0.mp3" />
+      <file href="story_content/6gqCpdbGSIo_22050_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5goqNhku54P.js" />
+      <file href="html5/data/js/5r3BdfhH6EA.js" />
+      <file href="html5/data/js/60WYFA01WFh.js" />
+      <file href="html5/data/js/63aCRFSzdfe.js" />
+      <file href="html5/data/js/66vwzMpdd3r.js" />
+      <file href="html5/data/js/6NFjFW1op56.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
